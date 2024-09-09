@@ -1,0 +1,92 @@
+.PHONE { font-family: Arial;
+    font-size: 20px; 
+    font-weight: bold;
+    font-style: oblique; 
+    text-align: center;
+    margin-top: 400px; 
+    } 
+    .JABAL { font-family: Arial;
+        font-size: 200px;
+        font-weight: bold;
+        font-style: normal;
+        text-align: center; 
+        color: rgb(202, 187, 100); 
+        margin-top: 0; 
+        margin-bottom: 10px;
+        } 
+
+        .inyour { 
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+            font-style: oblique; 
+            font-size: 2.5em;
+            text-align: center; 
+            line-height: 1px; 
+            color: rgb(202, 187, 100); 
+            margin-top: 20px; 
+            margin-bottom: 20px;
+             }
+         .date { 
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            color: grey;
+            text-align: center; 
+            margin-top: 10px; 
+            margin-bottom: 10px; 
+
+            
+
+
+
+            
+             } 
+             .LOGO { width: 400px; 
+margin-bottom: 0;
+margin-top: 100px;
+margin-left: 500PX;
+    margin-right: 0;     
+    
+} 
+.facebook { background-color: rgb(202, 187, 100);
+    color: whitesmoke; 
+    border: none; 
+    height: 36px;
+    border-radius: 20px; 
+    width: 100px; 
+    margin-left: 500px; 
+    margin-top: 70px;
+    margin-right: 100px; 
+cursor: pointer;
+transition: 1s, 
+    color 1s; 
+    
+    }
+
+    .WHATSAPP  { background-color: rgb(202, 187, 100);
+        color: whitesmoke; 
+        border: none; 
+        height: 36px;
+        border-radius: 20px; 
+        width: 100px; 
+        margin-left: 100px; 
+        margin-top: 70px; 
+        margin-right:500px;
+       cursor: pointer;
+       transition: 1s,
+color 1s;
+        }
+        .facebook:hover {  background-color: rgb(227, 211, 116);
+             
+        }
+        .facebook:active{ background-color: rgb(244, 227, 133);
+opacity: 0.7;
+box-shadow: 14px 14px 10px rgba(0, 0, 0, 0.15); 
+        }
+        .WHATSAPP:hover{  background-color: rgb(227, 211, 116);
+
+            
+        }
+        .WHATSAPP:active {background-color: rgb(244, 227, 133);
+opacity: 0.7; 
+box-shadow: 14px 14px 10px rgba(0, 0, 0, 0.15); 
+        }
